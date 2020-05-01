@@ -79,3 +79,11 @@ Tells us the reason for the change, and contrast this with previous behavior.
 ##### Footer
 
 Holds the information about any breaking changes.
+
+### Formatting Your Code
+
+We're following the Airbnb style guide for JavaScript, and CSS/Sass.
+
+- [JavaScript Style Guide](https://github.com/airbnb/javascript)
+
+- [CSS/Sass Style Guide](https://github.com/airbnb/css)
